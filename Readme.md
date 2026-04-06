@@ -101,7 +101,7 @@ const CONFIG \= {
 ![GCP_URL](img/GCP_URL.png)
 
 - User email:
-跟家自己email不然無法登
+要加自己email不然無法登會出現block
 ![GCP_useremail](img/gcpEmail.png)
 
 
